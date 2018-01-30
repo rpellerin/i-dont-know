@@ -1,0 +1,493 @@
+[
+	{
+		"backgroundColor": "rgb(147,42,148)",
+		"path": "static/pictures/3.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(10,198,8)",
+		"path": "static/pictures/16.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(173,42,6)",
+		"path": "static/pictures/23.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(199,68,7)",
+		"path": "static/pictures/IMG_20170708_185608.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(230,126,18)",
+		"path": "static/pictures/IMG_20170809_170015.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(8,229,109)",
+		"path": "static/pictures/37.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(76,247,112)",
+		"url": "bS5P_LAqiVg",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(175,77,192)",
+		"path": "static/pictures/32.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(226,95,101)",
+		"path": "static/pictures/IMG_20170708_194210.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(199,121,136)",
+		"path": "static/pictures/IMG_20170717_194516.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(211,179,231)",
+		"path": "static/pictures/7.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(44,243,143)",
+		"text": "Archillect",
+		"href": "http://archillect.com/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(181,229,223)",
+		"path": "static/pictures/14.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(85,198,190)",
+		"path": "static/pictures/IMG_20170721_111720.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(156,197,207)",
+		"text": "Cyberpunk on Reddit",
+		"href": "https://www.reddit.com/r/Cyberpunk/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(156,239,17)",
+		"path": "static/pictures/22.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(87,6,213)",
+		"text": "John Clang - Time",
+		"href": "http://johnclang.com/time/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(115,135,209)",
+		"path": "static/pictures/IMG_20170820_224552.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(156,214,223)",
+		"path": "static/pictures/IMG_20170717_100512.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(166,87,68)",
+		"text": "I'M GONNA MAKE SOME WEIRD SHIT",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(170,233,171)",
+		"path": "static/pictures/IMG_20170708_123257.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(137,25,177)",
+		"path": "static/pictures/IMG_20170712_192828.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(52,163,83)",
+		"path": "static/pictures/IMG_20170713_153732.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(98,151,9)",
+		"path": "static/pictures/10.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(206,239,6)",
+		"text": "oliverbotfeldt",
+		"href": "https://www.instagram.com/oliverbotfeldt/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(110,45,80)",
+		"path": "static/pictures/24.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(39,53,100)",
+		"text": "I'M BROWSING",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(125,97,134)",
+		"path": "static/pictures/IMG_20170712_193930.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(29,101,37)",
+		"path": "static/pictures/36.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(34,101,181)",
+		"path": "static/pictures/34.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(207,162,220)",
+		"path": "static/pictures/2.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(206,104,102)",
+		"text": "YOLO",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(7,79,238)",
+		"path": "static/pictures/IMG_20170709_163301.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(162,119,58)",
+		"path": "static/pictures/30.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(218,189,88)",
+		"text": "In San Francisco everyone expects you to do something weird",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(18,161,82)",
+		"path": "static/pictures/26.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(35,8,228)",
+		"text": "Tech noir",
+		"href": "https://en.wikipedia.org/wiki/Tech_noir",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(200,240,248)",
+		"path": "static/pictures/21.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(246,199,66)",
+		"path": "static/pictures/IMG_20170708_221752.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(42,104,103)",
+		"text": "THE WALK OF LIFE PROJECT",
+		"href": "http://www.wolproject.com/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(107,226,190)",
+		"path": "static/pictures/IMG_20170709_141028.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(86,157,129)",
+		"path": "static/pictures/12.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(116,148,206)",
+		"path": "static/pictures/IMG_20170709_141327.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(147,178,95)",
+		"path": "static/pictures/IMG_20170712_192742.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(27,133,207)",
+		"path": "static/pictures/18.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(155,78,183)",
+		"path": "static/pictures/17.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(41,135,251)",
+		"path": "static/pictures/IMG_20170718_114851.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(194,175,205)",
+		"path": "static/pictures/IMG_20170712_193055.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(201,95,61)",
+		"path": "static/pictures/38.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(176,91,196)",
+		"path": "static/pictures/IMG_20170709_142259.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(158,67,158)",
+		"path": "static/pictures/IMG_20170808_175241.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(15,34,1)",
+		"text": "Cyberpunk",
+		"href": "https://en.wikipedia.org/wiki/Cyberpunk",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(205,208,119)",
+		"path": "static/pictures/IMG_20170716_213115.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(2,46,163)",
+		"path": "static/pictures/6.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(122,90,0)",
+		"path": "static/pictures/Three-Billboards-Outside-Ebbing,-Missouri-2017-movie-poster.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(138,90,88)",
+		"text": "Outrun on Reddit",
+		"href": "https://www.reddit.com/r/outrun/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(185,20,192)",
+		"path": "static/pictures/CVN_TNY_10_23_17RGB.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(141,98,198)",
+		"path": "static/pictures/IMG_20170718_155956.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(213,84,35)",
+		"text": "lucancoutts",
+		"href": "https://www.instagram.com/lucancoutts/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(113,16,22)",
+		"path": "static/pictures/1.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(56,187,219)",
+		"text": "Sfera con sfera",
+		"href": "https://en.wikipedia.org/wiki/Sphere_Within_Sphere",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(26,249,110)",
+		"text": "bladerunnerreality",
+		"href": "https://www.instagram.com/bladerunnerreality/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(161,191,216)",
+		"path": "static/pictures/IMG_20170709_013936.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(55,35,157)",
+		"text": "I'm going to need verbal confirmation that you're grasping the details of this agreement",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(9,221,139)",
+		"text": "Night Project",
+		"href": "http://marilynmugot.com/nightproject/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(202,157,101)",
+		"path": "static/pictures/4.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(48,3,91)",
+		"path": "static/pictures/5.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(64,117,93)",
+		"text": "agk42",
+		"href": "https://www.instagram.com/agk42/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(61,226,220)",
+		"path": "static/pictures/31.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(7,170,251)",
+		"path": "static/pictures/20.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(240,199,8)",
+		"path": "static/pictures/19.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(128,150,157)",
+		"url": "2AKtp3XHn38",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(28,252,48)",
+		"path": "static/pictures/IMG_20170709_003508.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(110,11,16)",
+		"path": "static/pictures/8.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(12,201,23)",
+		"path": "static/pictures/29.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(39,204,36)",
+		"path": "static/pictures/blade-runner-2049-fire-ice-maxi-poster-1.105.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(172,210,102)",
+		"path": "static/pictures/13.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(20,29,107)",
+		"path": "static/pictures/11.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(164,18,63)",
+		"path": "static/pictures/35.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(121,93,116)",
+		"path": "static/pictures/25.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(119,110,86)",
+		"path": "static/pictures/27.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(207,207,208)",
+		"path": "static/pictures/IMG_20170712_192748.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(40,152,175)",
+		"path": "static/pictures/IMG_20170709_140859.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(61,254,59)",
+		"path": "static/pictures/9.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(200,41,60)",
+		"path": "static/pictures/IMG_20170709_145637.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(251,38,58)",
+		"url": "BHVbbcHWX4k",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(77,134,81)",
+		"text": "Pixel Art TV",
+		"href": "https://www.behance.net/gallery/59547099/Pixel-Art-TV",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(55,203,12)",
+		"path": "static/pictures/IMG_20170709_201505.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(200,73,102)",
+		"path": "static/pictures/28.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(170,167,93)",
+		"path": "static/pictures/4002412.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(113,237,192)",
+		"path": "static/pictures/33.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(165,184,250)",
+		"text": "Blade Runner on Reddit",
+		"href": "https://www.reddit.com/r/bladerunner/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(131,146,91)",
+		"path": "static/pictures/15.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(125,133,186)",
+		"path": "static/pictures/IMG_20170713_125314.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(194,115,80)",
+		"text": "Neo-noir",
+		"href": "https://en.wikipedia.org/wiki/Neo-noir",
+		"type": "TEXT"
+	}
+]
