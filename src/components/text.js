@@ -11,7 +11,7 @@ export default ({ text, backgroundColor, tabIndex, ...props }) => {
   const Wrapper = props.href ? Link : Div
   return (
     <div
-      className="ttu b sans-serif aspect-ratio aspect-ratio--1x1"
+      className="tile ttu b sans-serif aspect-ratio aspect-ratio--1x1"
       tabIndex={tabIndex}
     >
       <Wrapper
