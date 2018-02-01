@@ -3,6 +3,7 @@
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(500, auto);
   align-items: stretch;
+  overflow: hidden; /* when scaled up, images would overflow */
 }
 
 .imageSlideshow {
@@ -53,6 +54,12 @@
   box-sizing: border-box;
 }
 
+.tile:hover,
+.tile:focus,
+.squareTileWrapper:focus > .tile {
+  outline: 2px solid purple;
+}
+
 @media (min-width: 700px) {
   .grid-container {
     grid-template-columns: repeat(2, 1fr);
@@ -67,8 +74,8 @@
     filter: blur(3px) grayscale(30%) brightness(0.5);
   }
   .tile:hover,
-  .tile:active,
-  .tile:focus {
+  .tile:focus,
+  .squareTileWrapper:focus > .tile {
     transform: scale3d(1.08, 1.08, 2);
     filter: drop-shadow(0px 0px 20px black) contrast(150%);
     z-index: 200; /* above iframe */

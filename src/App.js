@@ -12,6 +12,16 @@ const TileBuilder = {
   TEXT: Text,
   VIDEO: Video
 }
+
+const sendMessageIframe = (iframe, func) =>
+  iframe.contentWindow.postMessage(
+    JSON.stringify({
+      event: 'command',
+      func,
+      args: []
+    }),
+    '*'
+  )
 class App extends Component {
   state = { imageIndexToShow: -1 }
 
@@ -34,6 +44,9 @@ class App extends Component {
 
   componentDidMount () {
     window.addEventListener('keyup', this.keyPressed)
+    this.youtubeIframes = Array.from(
+      document.querySelectorAll('iframe[src*="youtube"]')
+    )
   }
 
   setImageIndexToShow = imageIndexToShow => {
@@ -52,6 +65,15 @@ class App extends Component {
   onNext = () => this.findNextPrevImageIndexToShow(1)
   onPrev = () => this.findNextPrevImageIndexToShow(-1)
 
+  pauseAllVideosBut (node) {
+    if (this.youtubeIframes) {
+      this.youtubeIframes.filter(iframe => iframe !== node).forEach(iframe => {
+        sendMessageIframe(iframe, 'pauseVideo')
+        iframe.dataset.nextFunc = 'playVideo'
+      })
+    }
+  }
+
   render () {
     return (
       <div className="grid-container">
@@ -65,11 +87,32 @@ class App extends Component {
         )}
         {assets.map(({ type, ...tile }, tileIndex) => {
           const Component = TileBuilder[type]
+          const onClick = () => this.setImageIndexToShow(tileIndex)
           return (
-            <SquareTileWrapper tabIndex={tileIndex + 1} key={tileIndex}>
+            <SquareTileWrapper
+              tabIndex={tileIndex + 1}
+              key={tileIndex}
+              onKeyPress={event => {
+                if ([32, 13].includes(event.charCode)) {
+                  // space or enter keys
+                  event.preventDefault()
+                  if (type === 'IMAGE') onClick()
+                  if (type === 'TEXT') event.target.childNodes[0].click()
+                  if (type === 'VIDEO') {
+                    const iframe = event.target.childNodes[0]
+                    this.pauseAllVideosBut(iframe)
+                    sendMessageIframe(iframe, iframe.dataset.nextFunc)
+                    iframe.dataset.nextFunc =
+                      iframe.dataset.nextFunc === 'playVideo'
+                        ? 'pauseVideo'
+                        : 'playVideo'
+                  }
+                }
+              }}
+            >
               <Component
                 className="tile"
-                onClick={() => this.setImageIndexToShow(tileIndex)}
+                onClick={type === 'IMAGE' ? onClick : null}
                 {...tile}
               />
             </SquareTileWrapper>

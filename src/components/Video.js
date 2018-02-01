@@ -4,8 +4,9 @@ import React from 'react'
 const Video = ({ url, backgroundColor, ...props }) => (
   <iframe
     title={url}
-    src={`https://www.youtube-nocookie.com/embed/${url}?rel=0&amp;showinfo=0`}
+    src={`https://www.youtube-nocookie.com/embed/${url}?rel=0&amp;showinfo=0&amp;enablejsapi=1`}
     frameBorder="0"
+    data-next-func="playVideo"
     allowFullScreen
     {...props}
   />
