@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
-import Text from './components/text'
-import Video from './components/video'
-import Image from './components/image'
+import Text from './components/Text'
+import Video from './components/Video'
+import Image from './components/Image'
+import SquareTileWrapper from './components/SquareTileWrapper'
+import ImageSlideshow from './components/ImageSlideshow'
 import './App.css'
 import assets from './assets.json'
 
@@ -10,71 +12,6 @@ const TileBuilder = {
   TEXT: Text,
   VIDEO: Video
 }
-
-const Arrow = ({ children, style, ...props }) => (
-  <span
-    style={{
-      borderRadius: '50%',
-      backgroundColor: 'white',
-      color: 'black',
-      height: '1.2em',
-      width: '1.2em',
-      textAlign: 'center',
-      lineHeight: '1.2em',
-      fontSize: '3em',
-      verticalAlign: 'middle',
-      cursor: 'pointer',
-      ...style
-    }}
-    role="button"
-    {...props}
-  >
-    {children}
-  </span>
-)
-
-const SlideShow = ({ src, onNext, onPrev, onClose }) => (
-  <div
-    style={{
-      position: 'fixed',
-      top: 0,
-      right: 0,
-      bottom: 0,
-      left: 0,
-      backgroundColor: 'rgba(0,0,0,0.8)',
-      zIndex: 500,
-      padding: '10px',
-      boxSizing: 'border-box',
-      display: 'flex',
-      justifyContent: 'space-between',
-      alignItems: 'center'
-    }}
-    onClick={event => {
-      if (event.target === event.currentTarget) onClose()
-    }}
-  >
-    <Arrow
-      style={{ position: 'absolute', top: '10px', right: '10px' }}
-      onClick={onClose}
-    >
-      X
-    </Arrow>
-    <Arrow onClick={onPrev}>&lt;</Arrow>
-    <img
-      onClick={onNext}
-      src={src}
-      alt="Slideshow"
-      style={{
-        zIndex: 500,
-        flex: '0 0 auto',
-        maxWidth: '100%',
-        maxHeight: '100%'
-      }}
-    />
-    <Arrow onClick={onNext}>&gt;</Arrow>
-  </div>
-)
-
 class App extends Component {
   state = { imageIndexToShow: -1 }
 
@@ -90,7 +27,7 @@ class App extends Component {
       case 40: // bottom
         return this.onNext()
       case 27: // esc
-        return this.onClick(-1)
+        return this.setImageIndexToShow(-1)
       default:
     }
   }
@@ -99,11 +36,11 @@ class App extends Component {
     window.addEventListener('keyup', this.keyPressed)
   }
 
-  onClick = imageIndexToShow => {
+  setImageIndexToShow = imageIndexToShow => {
     this.setState({ imageIndexToShow })
   }
 
-  findNextImage = increment => {
+  findNextPrevImageIndexToShow = increment => {
     let imageIndexToShow = this.state.imageIndexToShow
     do {
       imageIndexToShow =
@@ -112,29 +49,30 @@ class App extends Component {
     this.setState({ imageIndexToShow })
   }
 
-  onNext = () => this.findNextImage(1)
-  onPrev = () => this.findNextImage(-1)
+  onNext = () => this.findNextPrevImageIndexToShow(1)
+  onPrev = () => this.findNextPrevImageIndexToShow(-1)
 
   render () {
     return (
-      <div className="bg-black grid-container">
+      <div className="grid-container">
         {this.state.imageIndexToShow !== -1 && (
-          <SlideShow
+          <ImageSlideshow
             onNext={this.onNext}
             onPrev={this.onPrev}
             src={assets[this.state.imageIndexToShow].path}
-            onClose={() => this.onClick(-1)}
+            onClose={() => this.setImageIndexToShow(-1)}
           />
         )}
-        {assets.map(({ type, ...props }, tileIndex) => {
+        {assets.map(({ type, ...tile }, tileIndex) => {
           const Component = TileBuilder[type]
           return (
-            <Component
-              tabIndex={tileIndex + 1}
-              key={tileIndex}
-              onClick={() => this.onClick(tileIndex)}
-              {...props}
-            />
+            <SquareTileWrapper tabIndex={tileIndex + 1} key={tileIndex}>
+              <Component
+                className="tile"
+                onClick={() => this.setImageIndexToShow(tileIndex)}
+                {...tile}
+              />
+            </SquareTileWrapper>
           )
         })}
       </div>
