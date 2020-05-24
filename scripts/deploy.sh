@@ -5,7 +5,7 @@ DATE=$(date --iso-8601=seconds)
 
 cd build
 git init
-git remote add origin https://${GH_TOKEN}@github.com/rpellerin/i-dont-know.git
+git remote add origin https://${GITHUB_TOKEN}@github.com/rpellerin/i-dont-know.git
 git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
 git fetch origin
