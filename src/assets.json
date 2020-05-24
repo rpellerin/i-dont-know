@@ -1,596 +1,596 @@
 [
 	{
-		"backgroundColor": "rgb(146,179,87)",
-		"path": "static/pictures/1.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(111,29,171)",
-		"path": "static/pictures/10.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(50,115,175)",
-		"path": "static/pictures/11.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(199,117,8)",
-		"path": "static/pictures/12.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(102,77,53)",
-		"path": "static/pictures/13.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(16,179,101)",
-		"path": "static/pictures/14.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(9,78,169)",
-		"path": "static/pictures/15.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(36,13,134)",
-		"path": "static/pictures/16.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(178,83,71)",
-		"path": "static/pictures/17.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(0,9,75)",
-		"path": "static/pictures/18.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(87,245,13)",
-		"path": "static/pictures/19.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(69,41,150)",
-		"path": "static/pictures/2.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(232,4,103)",
-		"path": "static/pictures/20.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(211,238,250)",
-		"path": "static/pictures/21.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(179,225,4)",
-		"path": "static/pictures/22.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(47,225,6)",
-		"path": "static/pictures/23.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(245,16,192)",
-		"path": "static/pictures/24.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(89,241,245)",
-		"path": "static/pictures/25.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(212,91,98)",
-		"path": "static/pictures/26.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(110,159,167)",
-		"path": "static/pictures/27.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(246,0,136)",
-		"path": "static/pictures/28.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(62,143,223)",
-		"path": "static/pictures/29.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(27,175,4)",
-		"path": "static/pictures/3.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(145,158,125)",
-		"path": "static/pictures/30.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(74,136,139)",
-		"path": "static/pictures/31.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(84,80,149)",
-		"path": "static/pictures/32.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(110,216,132)",
-		"path": "static/pictures/33.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(183,121,238)",
-		"path": "static/pictures/34.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(34,188,14)",
-		"path": "static/pictures/35.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(24,0,193)",
-		"path": "static/pictures/36.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(188,187,70)",
-		"path": "static/pictures/37.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(156,7,154)",
-		"path": "static/pictures/38.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(209,78,231)",
-		"path": "static/pictures/4.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(135,254,227)",
-		"path": "static/pictures/4002412.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(60,72,163)",
-		"path": "static/pictures/5.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(234,38,216)",
-		"path": "static/pictures/6.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(125,95,29)",
-		"path": "static/pictures/7.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(190,81,176)",
-		"path": "static/pictures/8.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(28,152,100)",
-		"path": "static/pictures/9.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(134,142,252)",
-		"path": "static/pictures/CSpFGgT.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(119,248,43)",
-		"path": "static/pictures/CVN_TNY_10_23_17RGB.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(137,53,224)",
-		"path": "static/pictures/IMG_20170708_123257.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(94,67,229)",
-		"path": "static/pictures/IMG_20170708_185608.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(95,150,75)",
-		"path": "static/pictures/IMG_20170708_194210.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(74,237,184)",
-		"path": "static/pictures/IMG_20170708_221752.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(141,37,119)",
-		"path": "static/pictures/IMG_20170709_003508.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(175,139,130)",
-		"path": "static/pictures/IMG_20170709_013936.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(128,1,211)",
-		"path": "static/pictures/IMG_20170709_140859.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(136,157,57)",
-		"path": "static/pictures/IMG_20170709_141028.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(56,99,216)",
-		"path": "static/pictures/IMG_20170709_141327.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(215,55,220)",
-		"path": "static/pictures/IMG_20170709_142259.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(67,148,87)",
-		"path": "static/pictures/IMG_20170709_145637.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(20,208,191)",
-		"path": "static/pictures/IMG_20170709_163301.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(193,203,48)",
+		"backgroundColor": "rgb(27,40,119)",
 		"path": "static/pictures/IMG_20170709_201505.jpg",
 		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(130,171,234)",
-		"path": "static/pictures/IMG_20170712_192742.jpg",
+		"backgroundColor": "rgb(231,147,138)",
+		"path": "static/pictures/20.jpg",
 		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(195,217,62)",
-		"path": "static/pictures/IMG_20170712_192748.jpg",
+		"backgroundColor": "rgb(226,122,79)",
+		"path": "static/pictures/IMG_20170709_141028.jpg",
 		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(71,34,16)",
-		"path": "static/pictures/IMG_20170712_192828.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(29,27,87)",
-		"path": "static/pictures/IMG_20170712_193055.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(21,170,23)",
-		"path": "static/pictures/IMG_20170712_193930.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(200,230,61)",
-		"path": "static/pictures/IMG_20170713_125314.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(215,253,35)",
-		"path": "static/pictures/IMG_20170713_153732.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(8,36,96)",
-		"path": "static/pictures/IMG_20170716_213115.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(73,126,133)",
-		"path": "static/pictures/IMG_20170717_100512.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(49,149,35)",
-		"path": "static/pictures/IMG_20170717_194516.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(185,237,104)",
-		"path": "static/pictures/IMG_20170718_114851.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(76,187,93)",
-		"path": "static/pictures/IMG_20170718_155956.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(142,23,112)",
-		"path": "static/pictures/IMG_20170721_111720.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(85,94,255)",
-		"path": "static/pictures/IMG_20170808_175241.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(87,98,107)",
-		"path": "static/pictures/IMG_20170809_170015.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(48,239,108)",
-		"path": "static/pictures/IMG_20170820_224552.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(4,219,69)",
-		"path": "static/pictures/Three-Billboards-Outside-Ebbing,-Missouri-2017-movie-poster.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(180,226,124)",
-		"path": "static/pictures/am7s598z63q01.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(174,94,44)",
+		"backgroundColor": "rgb(219,218,43)",
 		"path": "static/pictures/blade-runner-2049-fire-ice-maxi-poster-1.105.jpg",
 		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(223,143,73)",
+		"backgroundColor": "rgb(10,178,26)",
+		"path": "static/pictures/22.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(235,177,142)",
+		"path": "static/pictures/CSpFGgT.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(79,10,149)",
+		"path": "static/pictures/IMG_20170820_224552.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(204,135,36)",
 		"path": "static/pictures/nn6et0p3tx201.jpg",
 		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(101,66,182)",
-		"path": "static/pictures/papergirls.jpg",
-		"type": "IMAGE"
-	},
-	{
-		"backgroundColor": "rgb(111,7,253)",
-		"url": "BHVbbcHWX4k",
-		"type": "VIDEO"
-	},
-	{
-		"backgroundColor": "rgb(236,100,235)",
-		"url": "2AKtp3XHn38",
-		"type": "VIDEO"
-	},
-	{
-		"backgroundColor": "rgb(101,211,203)",
-		"url": "bS5P_LAqiVg",
-		"type": "VIDEO"
-	},
-	{
-		"backgroundColor": "rgb(131,198,84)",
-		"text": "I'M GONNA MAKE SOME WEIRD SHIT",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(213,142,118)",
-		"text": "Blade Runner on Reddit",
-		"href": "https://www.reddit.com/r/bladerunner/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(246,247,244)",
-		"text": "bladerunnerreality",
-		"href": "https://www.instagram.com/bladerunnerreality/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(152,195,35)",
-		"text": "Neo-noir",
-		"href": "https://en.wikipedia.org/wiki/Neo-noir",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(108,254,74)",
-		"text": "Cyberpunk",
-		"href": "https://en.wikipedia.org/wiki/Cyberpunk",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(106,199,157)",
-		"text": "oliverbotfeldt",
-		"href": "https://www.instagram.com/oliverbotfeldt/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(175,51,77)",
-		"text": "Cyberpunk on Reddit",
-		"href": "https://www.reddit.com/r/Cyberpunk/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(18,29,164)",
-		"text": "I'M BROWSING",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(77,18,216)",
-		"text": "THE WALK OF LIFE PROJECT",
-		"href": "http://www.wolproject.com/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(235,60,0)",
-		"text": "YOLO",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(78,182,210)",
-		"text": "Sfera con sfera",
-		"href": "https://en.wikipedia.org/wiki/Sphere_Within_Sphere",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(27,212,13)",
-		"text": "Outrun on Reddit",
-		"href": "https://www.reddit.com/r/outrun/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(124,13,170)",
+		"backgroundColor": "rgb(229,184,22)",
 		"text": "Tech noir",
 		"href": "https://en.wikipedia.org/wiki/Tech_noir",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(180,152,5)",
+		"backgroundColor": "rgb(196,116,129)",
 		"text": "Archillect",
 		"href": "http://archillect.com/",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(177,2,226)",
-		"text": "John Clang - Time",
-		"href": "http://johnclang.com/time/",
+		"backgroundColor": "rgb(2,44,38)",
+		"path": "static/pictures/4002412.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(190,29,234)",
+		"text": "Cyberpunk",
+		"href": "https://en.wikipedia.org/wiki/Cyberpunk",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(110,201,44)",
-		"text": "In San Francisco everyone expects you to do something weird",
-		"type": "TEXT"
+		"backgroundColor": "rgb(176,51,255)",
+		"path": "static/pictures/24.jpg",
+		"type": "IMAGE"
 	},
 	{
-		"backgroundColor": "rgb(131,124,210)",
-		"text": "Pixel Art TV",
-		"href": "https://www.behance.net/gallery/59547099/Pixel-Art-TV",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(54,213,141)",
-		"text": "Night Project",
-		"href": "http://marilynmugot.com/nightproject/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(118,110,247)",
-		"text": "agk42",
-		"href": "https://www.instagram.com/agk42/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(150,80,47)",
-		"text": "lucancoutts",
-		"href": "https://www.instagram.com/lucancoutts/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(199,82,110)",
-		"text": "I'm going to need verbal confirmation that you're grasping the details of this agreement",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(160,133,67)",
-		"text": "thedisconnect.co",
-		"href": "https://thedisconnect.co/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(214,188,1)",
-		"text": "Synthwave Radio",
-		"href": "https://www.di.fm/synthwave",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(115,33,102)",
-		"text": "80s posters",
-		"href": "https://www.redbubble.com/shop/80s+posters?accordion=product&cat_context=u-prints&ref=shop_product_refinement",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(25,222,247)",
-		"text": "80s art",
-		"href": "https://displate.com/sr-galleries/80s",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(202,218,228)",
-		"text": "Paper Girls",
-		"href": "https://www.reddit.com/r/papergirls/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(143,89,70)",
-		"text": "Varsity Jacket",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(194,109,210)",
-		"text": "Movie Poster Porn",
-		"href": "https://www.reddit.com/r/MoviePosterPorn/",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(213,124,160)",
-		"text": "Blade Runner 2049",
-		"href": "https://www.cinematerial.com/movies/blade-runner-2049-i1856101",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(140,165,141)",
-		"text": "Ready Player One",
-		"href": "https://www.cinematerial.com/movies/ready-player-one-i1677720",
-		"type": "TEXT"
-	},
-	{
-		"backgroundColor": "rgb(168,231,229)",
+		"backgroundColor": "rgb(132,91,165)",
 		"text": "MakeFrontEndShitAgain.PARTY",
 		"href": "https://makefrontendshitagain.party/",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(24,142,160)",
-		"text": "Radiooooo",
-		"href": "http://radiooooo.com/",
+		"backgroundColor": "rgb(130,160,151)",
+		"text": "Movie Poster Porn",
+		"href": "https://www.reddit.com/r/MoviePosterPorn/",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(140,166,92)",
-		"text": "Souvenir Jacket",
-		"href": "https://www.bonnegueule.fr/comment-choisir-porter-souvenir-jacket/",
+		"backgroundColor": "rgb(50,218,74)",
+		"text": "Outrun on Reddit",
+		"href": "https://www.reddit.com/r/outrun/",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(29,19,171)",
+		"backgroundColor": "rgb(148,39,18)",
+		"text": "80s posters",
+		"href": "https://www.redbubble.com/shop/80s+posters?accordion=product&cat_context=u-prints&ref=shop_product_refinement",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(73,53,220)",
+		"path": "static/pictures/IMG_20170713_153732.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(140,69,152)",
+		"path": "static/pictures/26.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(254,179,131)",
+		"path": "static/pictures/2.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(208,55,234)",
+		"path": "static/pictures/IMG_20170709_003508.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(156,177,255)",
+		"path": "static/pictures/CVN_TNY_10_23_17RGB.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(217,178,212)",
+		"text": "Sfera con sfera",
+		"href": "https://en.wikipedia.org/wiki/Sphere_Within_Sphere",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(113,228,140)",
+		"path": "static/pictures/28.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(176,69,33)",
+		"path": "static/pictures/IMG_20170708_123257.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(249,168,167)",
+		"path": "static/pictures/4.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(83,110,144)",
+		"text": "Pixel Art TV",
+		"href": "https://www.behance.net/gallery/59547099/Pixel-Art-TV",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(91,154,108)",
+		"text": "80s art",
+		"href": "https://displate.com/sr-galleries/80s",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(57,77,36)",
+		"path": "static/pictures/11.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(86,9,62)",
+		"text": "THE WALK OF LIFE PROJECT",
+		"href": "http://www.wolproject.com/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(86,225,62)",
+		"path": "static/pictures/6.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(18,100,42)",
+		"path": "static/pictures/IMG_20170712_193055.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(44,209,15)",
+		"path": "static/pictures/13.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(205,210,161)",
+		"text": "Blade Runner 2049",
+		"href": "https://www.cinematerial.com/movies/blade-runner-2049-i1856101",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(227,131,135)",
+		"path": "static/pictures/30.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(64,76,63)",
+		"path": "static/pictures/Three-Billboards-Outside-Ebbing,-Missouri-2017-movie-poster.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(213,28,252)",
+		"path": "static/pictures/IMG_20170708_185608.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(104,85,168)",
+		"path": "static/pictures/8.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(123,250,111)",
+		"path": "static/pictures/15.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(67,125,38)",
+		"path": "static/pictures/IMG_20170712_192828.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(134,94,227)",
+		"path": "static/pictures/32.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(64,109,49)",
+		"text": "I'M GONNA MAKE SOME WEIRD SHIT",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(134,63,232)",
+		"text": "Blade Runner on Reddit",
+		"href": "https://www.reddit.com/r/bladerunner/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(137,129,104)",
+		"path": "static/pictures/17.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(213,31,217)",
+		"path": "static/pictures/34.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(87,3,188)",
+		"path": "static/pictures/IMG_20170721_111720.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(162,247,0)",
+		"path": "static/pictures/19.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(234,116,191)",
+		"path": "static/pictures/36.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(223,38,222)",
+		"url": "bS5P_LAqiVg",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(24,39,128)",
+		"path": "static/pictures/IMG_20170709_141327.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(162,164,206)",
+		"text": "Souvenir Jacket 2",
+		"href": "https://www.timeout.com/tokyo/shopping/souvenir-jacket-a-brief-history-and-where-to-shop-for-sukajan-in-tokyo",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(76,120,4)",
+		"path": "static/pictures/IMG_20170718_114851.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(148,164,14)",
+		"path": "static/pictures/38.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(128,124,144)",
+		"path": "static/pictures/21.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(129,163,65)",
 		"text": "Hotline Miami Sukajan",
 		"href": "https://www.reddit.com/r/streetwear/comments/4tiyx6/hotline_miami_sukajan_jacket_i_made/",
 		"type": "TEXT"
 	},
 	{
-		"backgroundColor": "rgb(79,48,59)",
-		"text": "Souvenir Jacket 2",
-		"href": "https://www.timeout.com/tokyo/shopping/souvenir-jacket-a-brief-history-and-where-to-shop-for-sukajan-in-tokyo",
+		"backgroundColor": "rgb(95,139,72)",
+		"text": "I'm going to need verbal confirmation that you're grasping the details of this agreement",
 		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(203,3,229)",
+		"text": "Cyberpunk on Reddit",
+		"href": "https://www.reddit.com/r/Cyberpunk/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(36,63,57)",
+		"text": "agk42",
+		"href": "https://www.instagram.com/agk42/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(4,5,38)",
+		"text": "In San Francisco everyone expects you to do something weird",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(14,62,210)",
+		"path": "static/pictures/23.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(26,247,94)",
+		"text": "thedisconnect.co",
+		"href": "https://thedisconnect.co/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(37,163,24)",
+		"path": "static/pictures/am7s598z63q01.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(44,32,112)",
+		"text": "John Clang - Time",
+		"href": "http://johnclang.com/time/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(65,39,118)",
+		"path": "static/pictures/25.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(62,156,17)",
+		"path": "static/pictures/IMG_20170718_155956.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(208,48,67)",
+		"path": "static/pictures/1.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(99,136,33)",
+		"path": "static/pictures/IMG_20170717_100512.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(179,133,251)",
+		"text": "Varsity Jacket",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(123,120,197)",
+		"text": "I'M BROWSING",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(146,66,248)",
+		"path": "static/pictures/27.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(121,244,85)",
+		"path": "static/pictures/3.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(83,14,127)",
+		"path": "static/pictures/IMG_20170713_125314.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(202,196,69)",
+		"text": "Souvenir Jacket",
+		"href": "https://www.bonnegueule.fr/comment-choisir-porter-souvenir-jacket/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(202,154,58)",
+		"text": "Synthwave Radio",
+		"href": "https://www.di.fm/synthwave",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(99,136,80)",
+		"path": "static/pictures/papergirls.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(125,66,107)",
+		"path": "static/pictures/IMG_20170708_221752.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(116,115,134)",
+		"text": "Ready Player One",
+		"href": "https://www.cinematerial.com/movies/ready-player-one-i1677720",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(83,51,64)",
+		"text": "lucancoutts",
+		"href": "https://www.instagram.com/lucancoutts/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(186,236,211)",
+		"path": "static/pictures/10.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(110,130,65)",
+		"text": "Paper Girls",
+		"href": "https://www.reddit.com/r/papergirls/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(184,242,86)",
+		"path": "static/pictures/29.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(171,107,14)",
+		"path": "static/pictures/5.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(204,239,157)",
+		"text": "Radiooooo",
+		"href": "http://radiooooo.com/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(112,185,0)",
+		"text": "bladerunnerreality",
+		"href": "https://www.instagram.com/bladerunnerreality/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(230,89,102)",
+		"path": "static/pictures/IMG_20170809_170015.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(172,194,48)",
+		"path": "static/pictures/12.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(30,192,165)",
+		"path": "static/pictures/IMG_20170709_145637.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(5,211,165)",
+		"path": "static/pictures/IMG_20170709_163301.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(75,29,212)",
+		"path": "static/pictures/IMG_20170712_192742.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(62,177,243)",
+		"path": "static/pictures/7.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(101,177,184)",
+		"path": "static/pictures/IMG_20170709_140859.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(55,93,135)",
+		"text": "oliverbotfeldt",
+		"href": "https://www.instagram.com/oliverbotfeldt/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(9,97,3)",
+		"path": "static/pictures/14.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(128,166,19)",
+		"path": "static/pictures/31.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(146,38,200)",
+		"url": "BHVbbcHWX4k",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(220,81,85)",
+		"text": "Night Project",
+		"href": "http://marilynmugot.com/nightproject/",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(215,50,34)",
+		"path": "static/pictures/9.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(213,138,163)",
+		"text": "Neo-noir",
+		"href": "https://en.wikipedia.org/wiki/Neo-noir",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(132,87,165)",
+		"path": "static/pictures/16.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(241,181,176)",
+		"path": "static/pictures/33.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(197,3,131)",
+		"text": "YOLO",
+		"type": "TEXT"
+	},
+	{
+		"backgroundColor": "rgb(32,169,120)",
+		"path": "static/pictures/IMG_20170717_194516.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(254,106,61)",
+		"url": "2AKtp3XHn38",
+		"type": "VIDEO"
+	},
+	{
+		"backgroundColor": "rgb(75,106,217)",
+		"path": "static/pictures/IMG_20170716_213115.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(206,185,2)",
+		"path": "static/pictures/18.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(104,45,247)",
+		"path": "static/pictures/IMG_20170808_175241.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(173,241,21)",
+		"path": "static/pictures/35.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(122,43,189)",
+		"path": "static/pictures/IMG_20170709_142259.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(26,72,96)",
+		"path": "static/pictures/IMG_20170709_013936.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(61,9,76)",
+		"path": "static/pictures/IMG_20170712_193930.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(217,240,75)",
+		"path": "static/pictures/IMG_20170712_192748.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(254,170,233)",
+		"path": "static/pictures/IMG_20170708_194210.jpg",
+		"type": "IMAGE"
+	},
+	{
+		"backgroundColor": "rgb(234,15,109)",
+		"path": "static/pictures/37.jpg",
+		"type": "IMAGE"
 	}
 ]

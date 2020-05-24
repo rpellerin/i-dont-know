@@ -27,7 +27,7 @@ const hashCode = (s) =>
 const sortArray = (array) =>
   array
     .map((item) => ({ item, hash: hashCode(JSON.stringify(item)) }))
-    .sort((a, b) => a - b)
+    .sort((a, b) => a.hash - b.hash)
     .map(({ item }) => item)
 
 const images = fs
