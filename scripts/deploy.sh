@@ -8,7 +8,7 @@ BUILD_DIRECTORY="build"
 cd "$BUILD_DIRECTORY" # At this point, everything has been built
 git init
 git checkout "$BUILDING_BRANCH" || git checkout -b "$BUILDING_BRANCH"
-git remote add origin https://${GITHUB_ACTOR}:${GH_TOKEN}@github.com/rpellerin/i-dont-know.git
+git remote add origin https://${GITHUB_ACTOR}:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
 git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
 git fetch origin
