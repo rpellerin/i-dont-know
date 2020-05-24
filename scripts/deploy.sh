@@ -1,10 +1,12 @@
 #!/bin/bash
 
+BUILDING_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 DATE=$(date --iso-8601=seconds)
 
 cd build
 git init
+git checkout "$BUILDING_BRANCH" || git checkout -b "$BUILDING_BRANCH"
 git remote add origin https://${GITHUB_ACTOR}:${GH_TOKEN}@github.com/rpellerin/i-dont-know.git
 git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
