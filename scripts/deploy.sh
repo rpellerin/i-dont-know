@@ -31,4 +31,4 @@ fi
 
 git add -A
 git commit --no-verify -m "Release-$DATE"
-git push -q origin $TARGET_BRANCH:$TARGET_BRANCH >/dev/null 2>&1
+git push -q origin $TARGET_BRANCH:$TARGET_BRANCH
