@@ -21,31 +21,19 @@ const getRandomColor = () => {
   return `rgb(${r},${g},${b})`
 }
 
-// https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
-const shuffleArray = array => {
-  let counter = array.length
+const hashCode = (s) =>
+  s.split('').reduce((a, b) => ((a << 5) - a + b.charCodeAt(0)) | 0, 0)
 
-  // While there are elements in the array
-  while (counter > 0) {
-    // Pick a random index
-    let index = Math.floor(Math.random() * counter)
-
-    // Decrease counter by 1
-    counter--
-
-    // And swap the last element with it
-    let temp = array[counter]
-    array[counter] = array[index]
-    array[index] = temp
-  }
-
-  return array
-}
+const sortArray = (array) =>
+  array
+    .map((item) => ({ item, hash: hashCode(JSON.stringify(item)) }))
+    .sort((a, b) => a - b)
+    .map(({ item }) => item)
 
 const images = fs
   .readdirSync(PICTURES_DIRECTORY)
-  .filter(file => file.indexOf('.') !== 0)
-  .map(file => path.join('static', 'pictures', file))
+  .filter((file) => file.indexOf('.') !== 0)
+  .map((file) => path.join('static', 'pictures', file))
 
 const videos = fs
   .readFileSync(VIDEOS_FILE, { encoding: 'utf8' })
@@ -55,23 +43,21 @@ const texts = fs
   .readFileSync(TEXTS_FILE, { encoding: 'utf8' })
   .split('\n')
   .filter(Boolean) // removes empty lines
-  .map(line => {
+  .map((line) => {
     const match = line.match(/(.*?);;(.*)/)
     if (!match) return { text: line }
     return { text: match[1].trim(), href: match[2].trim() }
   })
 
-const assets = shuffleArray(
-  [
-    ...images.map(path => ({ path, type: 'IMAGE' })),
-    ...videos.map(url => ({ url, type: 'VIDEO' })),
-    ...texts.map(({ text, href }) => ({ text, href, type: 'TEXT' }))
-  ].map(asset => ({ backgroundColor: getRandomColor(), ...asset }))
-)
+const assets = sortArray([
+  ...images.map((path) => ({ path, type: 'IMAGE' })),
+  ...videos.map((url) => ({ url, type: 'VIDEO' })),
+  ...texts.map(({ text, href }) => ({ text, href, type: 'TEXT' }))
+]).map((asset) => ({ backgroundColor: getRandomColor(), ...asset }))
 
 const outputFileContent = JSON.stringify(assets, null, '\t')
 
-fs.writeFile(OUTPUT_FILE, outputFileContent, 'utf8', err => {
+fs.writeFile(OUTPUT_FILE, outputFileContent, 'utf8', (err) => {
   if (err) throw err
   console.log('The file has been saved!')
 })
