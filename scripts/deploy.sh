@@ -3,8 +3,9 @@
 BUILDING_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 DATE=$(date --iso-8601=seconds)
+BUILD_DIRECTORY="build"
 
-cd build
+cd "$BUILD_DIRECTORY" # At this point, everything has been built
 git init
 git checkout "$BUILDING_BRANCH" || git checkout -b "$BUILDING_BRANCH"
 git remote add origin https://${GITHUB_ACTOR}:${GH_TOKEN}@github.com/rpellerin/i-dont-know.git
