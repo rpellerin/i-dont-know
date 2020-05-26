@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 // backgroundColor is taken out of props but ignored
 const Video = ({ url, backgroundColor, ...props }) => (
@@ -8,8 +8,9 @@ const Video = ({ url, backgroundColor, ...props }) => (
     frameBorder="0"
     data-next-func="playVideo"
     allowFullScreen
+    loading="lazy"
     {...props}
   />
-)
+);
 
-export default Video
+export default Video;
