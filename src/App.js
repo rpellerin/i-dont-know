@@ -43,7 +43,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    window.addEventListener("keyup", this.keyPressed);
+    window.addEventListener("keydown", this.keyPressed);
     this.youtubeIframes = Array.from(
       document.querySelectorAll('iframe[src*="youtube"]')
     );
